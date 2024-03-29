@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=400&center=true&repeat=false&random=false&width=2000&height=75&lines=Hello+There%2C+I'm+Indra+Wijaya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=400&center=true&repeat=true&random=false&width=2000&height=75&lines=Hello+There%2C+I'm+Indra+Wijaya)](https://git.io/typing-svg)
 <h1 align="center" color="blue">Web Developer</h1>
 <p align="center">
   Nice to meet you, this is tea for you I'm from Indonesia
