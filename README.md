@@ -2,7 +2,7 @@
 <h3 align="center">"I'm Fullstack Developer. Fast Learner and enjoy exploring new thing like technologies"</h3>
 <ul>
   <li>🌍 Based in Indonesia</li>
-  <li>👨‍💻 All of my projects are available at <a href="portofolio-indrawijaya.netlify.app">here</a></li>
+  <li>👨‍💻 All of my projects are available at [here](https://portofolio-indrawijaya.netlify.app)</li>
   <li>🌱 I’m currently learning React.Js and Go</li>
   <li>📫 How to reach me : indrawijaya2400@gmail.com</li>
 </ul>
