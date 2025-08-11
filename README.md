@@ -1,53 +1,54 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=400&center=true&repeat=true&random=false&width=2000&height=75&lines=Hello+There%2C+I'm+Indra+Wijaya)](https://git.io/typing-svg)
-<h1 align="center" color="blue">Web Developer</h1>
-<p align="center">
-  Nice to meet you, this is Snack for you. I'm from Indonesia
-</p>
-<p>Skills:</p>
-<a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-      width="36"
-      height="36"
-      alt="Python" />
+<h3 align="center">"I'm Fullstack Developer. Fast Learner and enjoy exploring new thing like technologies"</h3>
+<ul>
+  <li>🌍 Based in **Indonesia**</li>
+  <li>👨‍💻 All of my projects are available at <a href="portofolio-indrawijaya.netlify.app">here</a></li>
+  <li>🌱 I’m currently learning **React.Js** and **Go**</li>
+  <li>📫 How to reach me **indrawijaya2400@gmail.com**</li>
+</ul>
+<h4>Tech Stack</h4>
+<hr>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+ <img height="5" />
+<hr>
+<h4>Contanct Me At</h4>
+<div align="left">
+  <a href="https://www.linkedin.com/in/indra-wijaya-o1204/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+  <a/>
+  <img width="12" />
+  <a href="https://www.instagram.com/_.indrak._/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="instagram logo"  />
+  <a/>
+  <img width="12" />
+  <a href="https://discordapp.com/users/arluxy">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-      width="36"
-      height="36"
-      alt="PHP" />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      width="36"
-      height="36"
-      alt="HTML5" />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-      width="36"
-      height="36"
-      alt="JavaScript" />
-  </a>
-</a>
-<p> Style:
-  <p>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-      width="36"
-      height="36"
-      alt="Bootstrap" />
+</div>
   </a>
   </p>
 </p>
