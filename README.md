@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=400&center=true&repeat=true&random=false&width=2000&height=75&lines=Hello+There%2C+I'm+Indra+Wijaya)](https://git.io/typing-svg)
 <h3 align="center">"I'm Fullstack Developer. Fast Learner and enjoy exploring new thing like technologies"</h3>
-### 🌟 About Me  
+🌟 About Me  
 
 - 🌍 Based in **Indonesia**  
 - 👨‍💻 All of my projects are available at [**here**](https://portofolio-indrawijaya.netlify.app)  
