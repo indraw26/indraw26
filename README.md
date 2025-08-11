@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=400&center=true&repeat=true&random=false&width=2000&height=75&lines=Hello+There%2C+I'm+Indra+Wijaya)](https://git.io/typing-svg)
 <h3 align="center">"I'm Fullstack Developer. Fast Learner and enjoy exploring new thing like technologies"</h3>
 <ul>
-  <li>🌍 Based in **Indonesia**</li>
+  <li>🌍 Based in Indonesia</li>
   <li>👨‍💻 All of my projects are available at <a href="portofolio-indrawijaya.netlify.app">here</a></li>
-  <li>🌱 I’m currently learning **React.Js** and **Go**</li>
-  <li>📫 How to reach me **indrawijaya2400@gmail.com**</li>
+  <li>🌱 I’m currently learning React.Js and Go</li>
+  <li>📫 How to reach me : indrawijaya2400@gmail.com</li>
 </ul>
 <h4>Tech Stack</h4>
 <hr>
